@@ -5,8 +5,10 @@ Este projeto é uma API simples desenvolvida em Dart para praticar os conceitos 
 ## Tecnologias utilizadas
 
 - Dart
+- Shelf
 - Servidor HTTP
 - JSON
+- Postman
 
 ## Funcionalidades
 
@@ -14,6 +16,7 @@ Este projeto é uma API simples desenvolvida em Dart para praticar os conceitos 
 - Listar registros
 - Atualizar um registro
 - Remover um registro
+- Relacionar uma entidade pai com uma entidade filho
 
 ## Como executar
 
