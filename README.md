@@ -24,3 +24,28 @@ Este projeto é uma API simples desenvolvida em Dart para praticar os conceitos 
 
 ```bash
 dart pub get
+```
+
+2. Rodar o servidor:
+
+```bash
+dart run bin/server.dart
+```
+
+3. Testar a API usando o Postman.
+
+A API roda em:
+
+```text
+http://localhost:8080
+```
+
+## Postman
+
+A collection utilizada para testar e documentar a API está disponível na pasta:
+
+```text
+postman/Projeto API.postman_collection.json
+```
+
+Para testar, basta importar esse arquivo no Postman, iniciar a API e executar as requisições.
